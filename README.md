@@ -9,7 +9,7 @@
 </table>
 </center>
 
-### Olá! Seja bem vindo ao meu perfil :) <img src="images/welcome.gif" width="30px">
+### Olá! Seja bem vindo/ ou bem vinda ao meu perfil :) <img src="images/welcome.gif" width="30px">
 
 ---
 
