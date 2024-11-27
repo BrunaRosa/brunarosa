@@ -13,7 +13,7 @@
 
 ---
 
-Atualmente estou trabalhando como Desenvolvedora Full Stack, atuo na área de tecnologia desde 2012 (já trabalhei com infraestrutura, depois como QA e agora como DEV) e sou graduada em Análise e Desenvolvimento de Sistemas.
+Atualmente estou trabalhando como Engenheira de Qualidade, atuo na área de tecnologia desde 2012 (já trabalhei com infraestrutura, me aventurei como dev mas voltei a ser QA ) e sou graduada em Análise e Desenvolvimento de Sistemas.
 <br>
 <br>
 Já arrisquei escrever algumas coisas no [Medium](https://medium.com/@brunarosadev) sobre qualidade (quero voltar a escrever mais).👩🏼‍💻
@@ -28,25 +28,24 @@ Amo:
 
 ---
 
-Em 2020 fiz uma mudança de carreira, deixei de ser QA (onde aprendi muito) pra virar "Deva" (Desenvolvedora), nesse meio tempo estou aprendendo muito sobre (com estudos e dentro da empresa onde trabalho):
+Em 2020 tentei uma mudança de carreira, deixei de ser QA (onde aprendi muito) pra virar "Deva" (Desenvolvedora) mas voltei a ser QA (que é a minha paixão), nesse meio tempo estou aprendendo muito sobre (com estudos e dentro da empresa onde trabalho).
+Abaixo tem as minhas qualificações técnicas
 
-* Linguagem de marcação e estilização: HTML/CSS;
-* Linguagem de programação e seus frameworks: Ruby, Rails, JavaScript, React;
-* Banco de dados: SQL, MySQL e Postgress;
-* Testes: Testes unitários e de aceitação;
-* Sobre melhoria contínua: Git/GitHub, Docker, Kubernetes;
-* Metodologias ágeis e suas técnicas: Scrum, Kanban, Lean e Waterfall;
-* E fazendo cursos de softkills também.
+**Metodologias e Práticas de Qualidade**: Ágeis (Scrum, Kanban, Lean) e Tradicionais (Waterfall), TDD (Test-Driven Development), BDD (Behavior-Driven Development).
+**Testes (Ferramentas)**: testes funcionais (Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress) e testes não funcionais (Adicionar ferramentas específicas, como JMeter, LoadRunner, etc.).
+**Linguagens de Programação**: JavaScript, TypeScript, Java, C#, Ruby, Python.
+**IDE e Gerenciamento de Código**: Visual Studio, TFS, Bitbucket, Jira, Confluence.
+**Bancos de Dados**: Oracle, MySQL, PostgreSQL (SQL).
+**Ferramentas de CI/CD e Melhoria Contínua**: Jenkins, GitLab, SonarQube , Docker, Kubernetes.
+**Serviços em Nuvem e Monitoramento**: AWS, Amazon S3, Elasticsearch, Kafka.
 
 ---
 
 Onde me encontrar? :mag:  
 
-<a href="https://www.linkedin.com/in/bruna-rosa-dev/"><img src="images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/bruna-rosa-dev/)  
+<a href="https://www.linkedin.com/in/bruna-rosa-dev/"><img src="images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/bruna-rosa-qa/)  
 
-<a href="https://twitter.com/brunarosa231"><img src="images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/brunarosa231)
-
-<a href="https://medium.com/@brunarosadev"><img src="images/medio.png" width="16"></img></a> [Medium](https://medium.com/@brunarosadev)
+<a href="https://medium.com/@brunarosadev"><img src="images/medio.png" width="16"></img></a> [Medium](https://medium.com/@brunarosaqa)
 
 <a href="mailto:bruninha20_468@hotmail.com"><img src="images/o-email.png" width="16"></img></a> [Email](mailto:bruninha20_468@hotmail.com)  
 
