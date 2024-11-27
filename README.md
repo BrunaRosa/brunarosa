@@ -13,31 +13,49 @@
 
 ---
 
-Atualmente estou trabalhando como Engenheira de Qualidade, atuo na área de tecnologia desde 2012 (já trabalhei com infraestrutura, me aventurei como dev mas voltei a ser QA ) e sou graduada em Análise e Desenvolvimento de Sistemas.
-<br>
-<br>
-Já arrisquei escrever algumas coisas no [Medium](https://medium.com/@brunarosadev) sobre qualidade (quero voltar a escrever mais).👩🏼‍💻
+Atualmente, trabalho como Engenheira de Qualidade. Estou na área de tecnologia desde 2012, já atuei com infraestrutura, me aventurei como desenvolvedora e voltei para a minha verdadeira paixão: Qualidade de Software (QA). Sou formada em Análise e Desenvolvimento de Sistemas.
 
-Amo:
-* 📚 Ler livros  (principalmente de aventura, policial e tudo envolvido a psicologia);
-* 🎼 Ouvir musicas (ouço de tudo um pouco);
+Escrevi algumas coisas no Medium sobre qualidade e pretendo voltar a escrever. 👩🏼‍💻
+
+O que eu amo fazer:
+* 📚 Ler livros (aventura, policial, psicologia, e etc);
+* 🎼 Ouvir música (sou eclética!);
 * 🎬 Assistir séries e filmes;
-* 🏋️‍♀️ Ir pra academia;
-* 👨‍👩‍👧‍👦 Estar com minha família;
-* 📖 E um dos mais importantes: estudar (Principalmente tecnologia em geral);
+* 🏋️‍♀️ Ir para a academia;
+* 👨‍👩‍👧‍👦 Passar tempo com minha família;
+* 📖 Estudar (especialmente assuntos relacionados à tecnologia).
 
 ---
 
-Em 2020 tentei uma mudança de carreira, deixei de ser QA (onde aprendi muito) pra virar "Deva" (Desenvolvedora) mas voltei a ser QA (que é a minha paixão), nesse meio tempo estou aprendendo muito sobre (com estudos e dentro da empresa onde trabalho).
-Abaixo tem as minhas qualificações técnicas
+## Minha trajetória:
+Comecei minha jornada como Analista de Qualidade em 2013. Em 2020, tentei mudar de carreira para desenvolvimento, mas logo percebi que minha verdadeira paixão é QA. 💜
 
-**Metodologias e Práticas de Qualidade**: Ágeis (Scrum, Kanban, Lean) e Tradicionais (Waterfall), TDD (Test-Driven Development), BDD (Behavior-Driven Development).
-**Testes (Ferramentas)**: testes funcionais (Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress) e testes não funcionais (Adicionar ferramentas específicas, como JMeter, LoadRunner, etc.).
-**Linguagens de Programação**: JavaScript, TypeScript, Java, C#, Ruby, Python.
-**IDE e Gerenciamento de Código**: Visual Studio, TFS, Bitbucket, Jira, Confluence.
-**Bancos de Dados**: Oracle, MySQL, PostgreSQL (SQL).
-**Ferramentas de CI/CD e Melhoria Contínua**: Jenkins, GitLab, SonarQube , Docker, Kubernetes.
-**Serviços em Nuvem e Monitoramento**: AWS, Amazon S3, Elasticsearch, Kafka.
+Aqui estão minhas principais qualificações técnicas:
+
+* **Metodologias e Práticas de Qualidade:**
+  * Ágeis (Scrum, Kanban, Lean) e Tradicionais (Waterfall).
+  * TDD (Test-Driven Development), BDD (Behavior-Driven Development).
+* **Ferramentas de Teste:**
+    * Funcionais: Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress.
+    * Não Funcionais: JMeter, LoadRunner.
+* **Linguagens de Programação:**
+    * JavaScript, TypeScript, Java, C#, Ruby, Python.
+* **IDE e Gerenciamento de Código:**
+    * Visual Studio, TFS, Bitbucket, Jira, Confluence.
+* **Bancos de Dados:**
+    * Oracle, MySQL, PostgreSQL.
+* **CI/CD e Melhoria Contínua:**
+    * Jenkins, GitLab, SonarQube, Docker, Kubernetes.
+* **Serviços em Nuvem e Monitoramento:**
+    * AWS, Amazon S3, Elasticsearch, Kafka.
+
+---
+
+## Projetos em Destaque:
+📌 Confira alguns dos meus repositórios mais relevantes:
+
+* Projeto 1: [Em andamento]
+* Projeto 2: [Em andamento]
 
 ---
 
