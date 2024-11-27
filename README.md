@@ -1,4 +1,4 @@
-![capa github](images\github-header-image.png)  
+![capa github](images/github-header-image.png)  
 
 <center>
 <table>
