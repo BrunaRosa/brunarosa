@@ -54,8 +54,9 @@ Aqui estão minhas principais qualificações técnicas:
 ## Projetos em Destaque:
 📌 Confira alguns dos meus repositórios mais relevantes:
 
-* Projeto 1: [Em andamento]
-* Projeto 2: [Em andamento]
+Projeto 1: [Em andamento]
+<br>
+Projeto 2: [Em andamento]
 
 ---
 
@@ -72,4 +73,5 @@ Onde me encontrar? :mag:
 ![](https://komarev.com/ghpvc/?username=brunarosa&color=blue&style=flat)
 
 Quer aprender a fazer um profile legal? É só olhar esse artigo: https://dev.to/dii_lua/github-profile-como-fazer-54o0
+<br>
 Quer fazer uma capa de github? Você pode montar aqui nesse link: https://leviarista.github.io/github-profile-header-generator/
