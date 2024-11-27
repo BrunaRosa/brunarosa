@@ -72,3 +72,4 @@ Onde me encontrar? :mag:
 ![](https://komarev.com/ghpvc/?username=brunarosa&color=blue&style=flat)
 
 Quer aprender a fazer um profile legal? É só olhar esse artigo: https://dev.to/dii_lua/github-profile-como-fazer-54o0
+Quer fazer uma capa de github? Você pode montar aqui nesse link: https://leviarista.github.io/github-profile-header-generator/
