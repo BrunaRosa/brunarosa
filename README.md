@@ -37,13 +37,13 @@ Aqui estão minhas principais qualificações técnicas:
   * TDD (Test-Driven Development), BDD (Behavior-Driven Development).
 * **Ferramentas de Teste:**
     * Funcionais: Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress.
-    * Não Funcionais: JMeter, LoadRunner.
+    * Não Funcionais: JMeter, LoadRunner e k6.
 * **Linguagens de Programação:**
     * JavaScript, TypeScript, Java, C#, Ruby, Python.
 * **IDE e Gerenciamento de Código:**
     * Visual Studio, TFS, Bitbucket, Jira, Confluence.
 * **Bancos de Dados:**
-    * Oracle, MySQL, PostgreSQL.
+    * Oracle, MySQL, PostgreSQL e MongoDB.
 * **CI/CD e Melhoria Contínua:**
     * Jenkins, GitLab, SonarQube, Docker, Kubernetes.
 * **Serviços em Nuvem e Monitoramento:**
