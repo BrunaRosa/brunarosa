@@ -72,10 +72,8 @@ Gosto de explorar novas tecnologias, desenvolver projetos desafiadores e contrib
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruninha20_468@hotmail.com)
 
 ---
-💡 Sempre aberto(a) a novas oportunidades e colaborações! Vamos conectar e criar algo incrível juntos. 🚀
+💡 Sempre aberta a novas oportunidades e colaborações! Vamos conectar e criar algo incrível juntos. 🚀
 
 ![](https://komarev.com/ghpvc/?username=brunarosa&color=blue&style=flat)
-
----
 
 Quer aprender a fazer um profile legal? É só olhar esse artigo: https://dev.to/dii_lua/github-profile-como-fazer-54o0
