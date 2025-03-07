@@ -1,53 +1,43 @@
 ![capa github](images/github-header-image.png)  
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunarosa&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunarosa&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+# 👋 Olá, eu sou Bruna Rosa!
 
-### Olá! Seja bem vindo/ ou bem vinda ao meu perfil :) <img src="images/welcome.gif" width="30px">
+Bem-vindo(a) ao meu perfil no GitHub! Sou uma QA apaixonada por tecnologia e aprendizado contínuo. 
 
----
+Gosto de explorar novas tecnologias, desenvolver projetos desafiadores e contribuir para a comunidade open-source.
 
-Atualmente, trabalho como Engenheira de Qualidade. Estou na área de tecnologia desde 2012, já atuei com infraestrutura, me aventurei como desenvolvedora e voltei para a minha verdadeira paixão: Qualidade de Software (QA). Sou formada em Análise e Desenvolvimento de Sistemas.
+## 🚀 Sobre mim
 
-Escrevi algumas coisas no Medium sobre qualidade e pretendo voltar a escrever. 👩🏼‍💻
-
-O que eu amo fazer:
-* 📚 Ler livros (aventura, policial, psicologia, e etc);
-* 🎼 Ouvir música (sou eclética!);
-* 🎬 Assistir séries e filmes;
-* 🏋️‍♀️ Ir para a academia;
-* 👨‍👩‍👧‍👦 Passar tempo com minha família;
-* 📖 Estudar (especialmente assuntos relacionados à tecnologia).
+- 🛠 Engenheira de qualidade desde 2013
+- 🚀 Focada em cultura de Qualidade e testes automatizados
+- 📚 Sempre aprendendo algo novo
 
 ---
 
-## Minha trajetória:
-Comecei minha jornada como Analista de Qualidade em 2013. Em 2020, tentei mudar de carreira para desenvolvimento, mas logo percebi que minha verdadeira paixão é QA. 💜
+## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão minhas principais qualificações técnicas:
+#### 📌 Metodologias e Práticas de Qualidade
+- Ágeis (Scrum, Kanban, Lean) e Tradicionais (Waterfall)
+- TDD (Test-Driven Development), BDD (Behavior-Driven Development)
 
-* **Metodologias e Práticas de Qualidade:**
-  * Ágeis (Scrum, Kanban, Lean) e Tradicionais (Waterfall).
-  * TDD (Test-Driven Development), BDD (Behavior-Driven Development).
-* **Ferramentas de Teste:**
-    * Funcionais: Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress.
-    * Não Funcionais: JMeter, LoadRunner e k6.
-* **Linguagens de Programação:**
-    * JavaScript, TypeScript, Java, C#, Ruby, Python.
-* **IDE e Gerenciamento de Código:**
-    * Visual Studio, TFS, Bitbucket, Jira, Confluence.
-* **Bancos de Dados:**
-    * Oracle, MySQL, PostgreSQL e MongoDB.
-* **CI/CD e Melhoria Contínua:**
-    * Jenkins, GitLab, SonarQube, Docker, Kubernetes.
-* **Serviços em Nuvem e Monitoramento:**
-    * AWS, Amazon S3, Elasticsearch, Kafka.
+#### 🔍 Ferramentas de Teste
+- **Funcionais:** Selenium WebDriver, Watir, Cucumber, Capybara, Jest, Cypress.
+- **Não Funcionais:** JMeter, LoadRunner e k6.
+
+#### 💻 Linguagens de Programação
+- JavaScript, TypeScript, Java, C#, Ruby, Python.
+
+#### 🛠 IDE e Gerenciamento de Código
+- Visual Studio, TFS, Bitbucket, Jira, Confluence.
+
+#### 🗄️ Bancos de Dados
+- Oracle, MySQL, PostgreSQL e MongoDB.
+
+#### 🔄 CI/CD e Melhoria Contínua
+- Jenkins, GitLab, SonarQube, Docker, Kubernetes.
+
+#### ☁️ Serviços em Nuvem e Monitoramento
+- AWS, Amazon S3, Elasticsearch, Kafka.
 
 ---
 
@@ -59,16 +49,31 @@ Projeto 1: [Em andamento]
 Projeto 2: [Em andamento]
 
 ---
+## 📊 Minhas Estatísticas no GitHub
 
-Onde me encontrar? :mag:  
+<center>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=BrunaRosa&show_icons=true&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRosa&layout=compact&theme=radical"/>
+        </td>
+    </tr>
+</table>
+</center>
 
-<a href="https://www.linkedin.com/in/bruna-rosa-dev/"><img src="images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/bruna-rosa-qa/)  
+---
 
-<a href="https://medium.com/@brunarosadev"><img src="images/medio.png" width="16"></img></a> [Medium](https://medium.com/@brunarosaqa)
+## 📫 Como me encontrar
 
-<a href="mailto:bruninha20_468@hotmail.com"><img src="images/o-email.png" width="16"></img></a> [Email](mailto:bruninha20_468@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunarosa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brunarosaqa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruninha20_468@hotmail.com)
 
----  
+---
+💡 Sempre aberta a novas oportunidades e colaborações! Vamos conectar e criar algo incrível juntos. 🚀
 
 ![](https://komarev.com/ghpvc/?username=brunarosa&color=blue&style=flat)
 
